@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Testerweiterung f\u00fcr das Tutorial \"Einf\u00fcgen eigener Contentelemente\"",
+        "emConf": {
+            "category": "misc",
+            "custom_category": "",
+            "dependsOn": "typo3 => 9.5.0-9.5.99\n",
+            "disableLocalization": true,
+            "disableVersioning": true,
+            "skipGenerateDocumentationTemplate": true,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "9.5.0-9.5.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "content_elements",
+        "name": "Content Elements ",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "siteVertreiber",
+                "email": "cbeer@schirra-it.de",
+                "name": "Christoph ",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "SV"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2018-10-18 12:59",
+        "extension_builder_version": "9.10.0",
+        "be_user": " (1)"
+    }
+}

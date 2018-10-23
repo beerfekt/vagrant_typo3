@@ -1,0 +1,26 @@
+
+<f:layout name="Layout1ColumnPage" />
+
+
+
+<f:section name="MainContent">
+    <div id="main-content">
+        <f:cObject typoscriptObjectPath="lib.content.render" data="{colPos:0}" />
+    </div>
+</f:section>
+
+
+
+
+<f:section name="PageHeader">
+    <div id="page-header">
+        <div id="navigation-top-level"><f:cObject typoscriptObjectPath="lib.topNavigation" /></div>
+        <div id="navigation-trail">{f:cObject(typoscriptObjectPath:'lib.breadcrumbTrail')->f:format.raw()}</div>
+    </div>
+</f:section>
+
+<f:section name="PageFooter">
+    <div id="page-footer">
+        <div id="footer-notice"> <p>This is the page footer area.</p> </div>
+    </div>
+</f:section>

@@ -1,0 +1,66 @@
+
+
+//###################### EIGENEN Reiter "Content Element Wizard" defnieren und configurieren ######################
+
+//GRUPPE (= Select- und Wizard-Oberpunkt) definieren
+
+
+#content element definieren (identifier des elements CTYPE)  und icon zuweisen,
+mod.wizards.newContentElement.wizardItems.eigeneFunktionen {
+    header = LLL:EXT:content_elements/Resources/Private/Language/Tca.xlf:eigene-elemente
+    elements.content_elements_kaese {
+        #icon identifier (in localconf.php registriert) wird hier verwendet
+        iconIdentifier = content_elements_icon
+        title = LLL:EXT:content_elements/Resources/Private/Language/Tca.xlf:eigene-elemente-title
+        description = Kaese Element beschreibung
+        tt_content_defValues {
+
+            CType = content_elements_kaese
+
+
+            //Default Werte - vorbefüllung des Feldes "Bodytext"
+            bodytext (
+               <h2> Section Header - Käse Element</h2>
+               <p class=“bodytext”> käserus, limburgerus Lorem ipsum dolor sit amet, consectetur, sadipisci velit ...</p>
+            )
+            header = Section Header - BLOCK BLOCK
+            header_layout = 100
+
+        }
+    }
+    show := addToList(content_elements_kaese)
+}
+
+
+//###############      TABS des Reiters sortieren #####################
+
+//Tab Sortierung Bsp:
+
+//Reihenfolge sortieren
+mod.wizards.newContentElement.wizardItems.{
+    special.before = common
+    common.before = forms
+    forms.before = eigeneFunktionen
+    eigeneFunktionen.after = plugins,menu
+}
+
+
+//############# TABS entfernen:        ###########################
+
+
+    /*
+    * Element- und Tabbezeichner finden sich im Typo3 Core:
+    * /home/beer/workspace/webentwicklung/typo3_src-9.5.0/typo3/sysext/backend/Configuration/TSconfig/Page/Mod/Wizards/NewContentElement.tsconfig
+    */
+
+
+//remove item of tab (wenn keine items dann verschwindet tab)
+//mod.wizards.newContentElement.wizardItems.eigeneFunktionen.show := removeFromList(content_elements_kaese)
+
+//Plugins: erst show deaktivieren
+mod.wizards.newContentElement.wizardItems.plugins.show >
+//mod.wizards.newContentElement.wizardItems.plugins.show := removeFromList(general)
+
+//ganzen tab ins nirvana schicken
+//mod.wizards.newContentElement.wizardItems.plugins >
+

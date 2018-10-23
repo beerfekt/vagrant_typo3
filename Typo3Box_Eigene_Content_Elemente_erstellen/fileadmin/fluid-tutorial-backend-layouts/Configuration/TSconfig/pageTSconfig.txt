@@ -1,0 +1,55 @@
+mod.web_layout.BackendLayouts {
+    einespalte {
+        title = Einspaltig(eigen)
+        icon = fileadmin/fluid-tutorial-backend-layouts/Resources/Public/Images/BackendLayouts/icon.png
+        config {
+            backend_layout {
+                colCount = 2
+                rowCount = 1
+                rows {
+                    1 {
+                        columns {
+                            1 {
+                                name = Spalte1
+                                colPos = 0
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    zweispalten {
+        title = Zweispaltig(eigen)
+        icon = fileadmin/fluid-tutorial-backend-layouts/Resources/Public/Images/BackendLayouts/icon.png
+        config {
+            backend_layout {
+                colCount = 2
+                rowCount = 1
+                rows {
+                    1 {
+                        columns {
+                            1 {
+                                name = Spalte1
+                                colPos = 0
+                            }
+                            2 {
+                                name = Spalte2
+                                colPos = 2
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+

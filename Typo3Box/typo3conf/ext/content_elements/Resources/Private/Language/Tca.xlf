@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" >
+       <file source-language="en" datatype="plaintext" original="messages" date="2014-02-07T20:22:32Z" product-name="content_elements">
+       <header/>
+               <body>
+                       <trans-unit id="eigene-elemente">
+                               <source>Eigene Elemente (Original)</source>
+                       </trans-unit>
+                       <trans-unit id="eigene-elemente-title">
+                               <source>Käse (Original)</source>
+                       </trans-unit>
+               </body>
+       </file>
+</xliff>

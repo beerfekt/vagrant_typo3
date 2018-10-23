@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f82f3fc8-6aca-4776-a274-8662006edc8e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1221159476">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="htaccess" value="1" />
+          <entry key="html" value="12" />
+          <entry key="json" value="16" />
+          <entry key="php" value="95" />
+          <entry key="png" value="4" />
+          <entry key="svg" value="6" />
+          <entry key="ts" value="34" />
+          <entry key="tsconfig" value="2" />
+          <entry key="txt" value="21" />
+          <entry key="xlf" value="8" />
+          <entry key="yaml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="12" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="16" />
+          <entry key="PHP" value="95" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="SVG" value="6" />
+          <entry key="TypoScript File" value="55" />
+          <entry key="XML" value="3" />
+          <entry key="YAML" value="1" />
+          <entry key="htaccess" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="353" />
+          <entry key="php" value="2280" />
+          <entry key="ts" value="353" />
+          <entry key="txt" value="1907" />
+          <entry key="xlf" value="291" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="353" />
+          <entry key="PHP" value="2280" />
+          <entry key="PLAIN_TEXT" value="166" />
+          <entry key="TypoScript File" value="2260" />
+          <entry key="XML" value="125" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Typo3Box" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/sys_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TSconfig/pageTSconfig.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/tt_content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/Hooks/PageLayoutView/NewContentElementPreviewRenderer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>your_extension_key</find>
+      <find>yourextensionkey</find>
+      <find>desc</find>
+      <find>content_elements</find>
+      <find>yourextension</find>
+      <find>your_extension</find>
+      <find>&amp;</find>
+      <find>plain</find>
+      <find>Tca.xlf</find>
+      <find>LLL</find>
+      <find>extra</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/typo3conf/ext/content_elements</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/constants.ts" />
+        <option value="$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/setup.ts" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/constants.ts" />
+        <option value="$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Layouts/Layout1ColumnPage.html" />
+        <option value="$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Layouts/Layout2ColumnPage.html" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/wizicon.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TSconfig/pageTSconfig.txt" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/DataProcessing/NewContentElementProcessor.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Templates/NewContentElement.html" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Language/Tca.xlf" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/tt_content.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TsConfig/pageTSconfig.txt" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/sys_template.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/ext_localconf.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/ext_tables.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/setup.ts" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/Hooks/PageLayoutView/NewContentElementPreviewRenderer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/typo3conf/ext/extension_builder/Resources/Public/jsDomainModeling/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../typo3_src-9.5.0" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1966" />
+    <option name="y" value="128" />
+    <option name="width" value="908" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="DataProcessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Hooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="PageLayoutView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="TCA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="TCA" type="462c0819:PsiDirectoryNode" />
+              <item name="Overrides" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="TSconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="TypoScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Private" type="462c0819:PsiDirectoryNode" />
+              <item name="Language" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Private" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+              <item name="Icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Typo3Box" type="462c0819:PsiDirectoryNode" />
+              <item name="typo3conf" type="462c0819:PsiDirectoryNode" />
+              <item name="ext" type="462c0819:PsiDirectoryNode" />
+              <item name="content_elements" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+              <item name="Icons" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Typo3Box" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../typo3_src-9.5.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Public/Icons/ContentElements" />
+      <recent name="$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration" />
+      <recent name="$PROJECT_DIR$/fileadmin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/typo3conf/ext" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82f3fc8-6aca-4776-a274-8662006edc8e" name="Default Changelist" comment="" />
+      <created>1539850366804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539850366804</updated>
+      <workItem from="1539850368255" duration="13759000" />
+      <workItem from="1539929492904" duration="21355000" />
+      <workItem from="1540186574230" duration="26162000" />
+      <workItem from="1540273327583" duration="6754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68030000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1599" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81805557" visible="true" weight="0.29615796" />
+      <window_info id="Structure" order="1" sideWeight="0.50246304" side_tool="true" weight="0.575406" />
+      <window_info id="Favorites" order="2" sideWeight="0.18194444" side_tool="true" weight="0.26467448" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.24843423" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43767312" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.2497332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26520813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TSconfig/pageTSconfig.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/setup.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Templates/Einespalte.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Layouts/Layout1ColumnPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Layouts/Layout2ColumnPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Resources/Private/Templates/Zweispalten.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/wizicon.php" />
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Public/Icons/ContentElements/content_elements_newcontentelement.png" />
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Public/Icons/ContentElements/content_elements_kaese_icon.svg" />
+    <entry file="file://$PROJECT_DIR$/../../../../typo3_src-9.5.0/typo3/sysext/core/Classes/Utility/ExtensionManagementUtility.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3600">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../typo3_src-9.5.0/typo3/sysext/backend/Configuration/TSconfig/Page/Mod/Wizards/NewContentElement.tsconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Language/Tca.xlf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Public/Icons/ContentElements/content_elements_cheese_icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/ExtensionBuilder/settings.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/DataProcessing/NewContentElementProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/constants.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/ext_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/ext_emconf.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/ExtensionBuilder.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Templates/NewContentElement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/ext_localconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="25" selection-start-line="25" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/setup.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TSconfig/pageTSconfig.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/sys_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/tt_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/Hooks/PageLayoutView/NewContentElementPreviewRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
