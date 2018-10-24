@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f82f3fc8-6aca-4776-a274-8662006edc8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/vagrant_cwd" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/vagrant_cwd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ubuntu-xenial-16.04-cloudimg-console.log" beforeDir="false" afterPath="$PROJECT_DIR$/ubuntu-xenial-16.04-cloudimg-console.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,8 +94,9 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -132,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -141,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TSconfig/pageTSconfig.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -149,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/tt_content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
+            <state relative-caret-position="300">
               <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
@@ -159,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Templates/NewContentElement.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -182,7 +175,7 @@
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -200,7 +193,7 @@
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/DataProcessing/NewContentElementProcessor.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -287,9 +280,9 @@
       <path value="$PROJECT_DIR$/../../../../typo3_src-9.5.0" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1889" />
-    <option name="y" value="124" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1841" />
+    <option name="y" value="261" />
     <option name="width" value="904" />
     <option name="height" value="860" />
   </component>
@@ -534,11 +527,12 @@
       <workItem from="1540273327583" duration="7354000" />
       <workItem from="1540363979837" duration="4106000" />
       <workItem from="1540368129265" duration="1901000" />
+      <workItem from="1540374050584" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74637000" />
+    <option name="totallyTimeSpent" value="75248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,10 +544,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1599" y="-11" width="1922" height="1092" extended-state="7" />
-    <editor active="true" />
+    <frame x="1841" y="261" width="904" height="860" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81805557" visible="true" weight="0.4967983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81805557" visible="true" weight="1.0" />
       <window_info id="Structure" order="1" sideWeight="0.50246304" side_tool="true" weight="0.575406" />
       <window_info id="Favorites" order="2" sideWeight="0.18194444" side_tool="true" weight="0.26467448" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -697,27 +690,20 @@
     <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/constants.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TSconfig/pageTSconfig.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TCA/Overrides/tt_content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
+        <state relative-caret-position="300">
           <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
@@ -725,7 +711,7 @@
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Resources/Private/Templates/NewContentElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -742,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -753,10 +739,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/fluid-tutorial-backend-layouts/Configuration/TypoScript/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/content_elements/Classes/DataProcessing/NewContentElementProcessor.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>

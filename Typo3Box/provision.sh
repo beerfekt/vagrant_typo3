@@ -7,7 +7,7 @@ DBNAME=typo
 DBUSER=dbuser
 DBPASSWD=dbpass
 DBROOT=toor
-TYPOURL=http://prdownloads.sourceforge.net/typo3/typo3_src-6.2.19.tar.gz?download
+TYPOURL=get.typo3.org/9
 EXTENSION=sv_shopware_typo3
 
 echo -e "\n--- Updating packages list ---\n"
@@ -29,6 +29,7 @@ apt-get -y install mysql-server-5.7 phpmyadmin
 echo -e "\n--- Setting up our MySQL user and db ---\n"
 mysql -uroot -p$DBROOT -e "CREATE DATABASE $DBNAME CHARACTER SET utf8 COLLATE utf8_unicode_ci"
 mysql -uroot -p$DBROOT -e "grant all privileges on $DBNAME.* to '$DBUSER'@'localhost' identified by '$DBPASSWD'"
+mysql -uroot -p$DBROOT typo < /vagrant/db_dump/typo95.sql
 
 echo -e "\n--- Installing PHP-specific packages ---\n"
 add-apt-repository ppa:ondrej/php
@@ -101,7 +102,7 @@ echo -e "\n--- Install TYPO3 ---\n"
 mkdir /usr/local/typo3
 cd /usr/local/typo3
 #wget "$TYPOURL"
-wget --content-disposition get.typo3.org/9
+wget --content-disposition $TYPOURL
 tar -xzvpf typo3*
 rm typo3*
 
@@ -109,6 +110,8 @@ cd /var/www
 ln -s /usr/local/typo3/typo3_src-9.5.*/ typo3_src
 ln -s typo3_src/index.php .
 ln -s typo3_src/typo3/ .
+ln -s /vagrant/fileadmin fileadmin
+ln -s /vagrant/typo3conf typo3conf
 cp typo3_src/_.htaccess .htaccess
 touch FIRST_INSTALL
 
