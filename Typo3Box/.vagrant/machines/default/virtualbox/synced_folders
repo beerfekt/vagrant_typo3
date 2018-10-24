@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/beer/workspace/webentwicklung/uebungen/typo3/vagrant/Typo3Box","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/beer/workspace/webentwicklung/uebungen/typo3/vagrant_typo3/Typo3Box","disabled":false,"__vagrantfile":true}}}
